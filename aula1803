@@ -2,3 +2,26 @@
 
 De início foi desenvolvido uma atividade relacionada aos 3 diferentes ciclos de vida de um software, ( Planejamento, Execução, Finalização ). 
 Buscando em fontes e desenvolvendo a pesquisa.
+--
+Citado em certo momento de que é necessário sempre ter conhecimento daquilo que foi estudado, para poder desenvolver uma resposta correta.
+- -
+A metodologia ágil criado em 2001, agindo de forma iterativa e incremental para fazer entregas constantes e significativas ao cliente.
+--
+Contrução do software :
+cliente: O melhor seria conversar diretamente ao cliente do que com o contrato, pois é mais fácil de lidar.
+equipe de software : dar muito mais valor a equipe do que as ferramentas para o processo do desenvolvimento.
+processo e software: é muito melhor estar aberto a mudanças do que executar somente o plano.
+Software : Foco em deixar o software funcionando, do que documentar sempre a cada situação.
+-
+levantamento de dados : Criação de requisitos, procurar entender qual a idéia que o cliente precisa.
+Análise de requisitos : Verificar o que realmente é necessário na produção.
+Modelagem de dados : Recebem os requisitos necessários e criam um modelo do produto para os desenvolvedores.
+Codificação ou implementação : momento onde ocorre o desenvolvimento do software.
+Fase de testes : Ocorre quando o projeto está em fase final e fazem a verificação de todos os dados.
+Implantação : Fase onde ocorre a entrega do produto ao cliente.
+Manutenção : momento onde as empresas verificam ocfeedback do cliente e fazem os ajustes finais.
+- -
+Modelos :
+Cascata : Modelo que precisa de finalização de cada etapa da produção, para que a próxima possa ser iniciado.
+Incremental : Calcula o mínimo do produto que o cliente precisa.
+Espiral: O cliente ou o representante podem participar de todos os processos de desenvolvimento.
