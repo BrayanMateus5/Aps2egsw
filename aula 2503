@@ -1,3 +1,47 @@
+DEV..
+
 Por qual motivo estudar modelos tradicionais antigos?
-O que é levantamento de dados? Diferença entre levantamente e análise.
-Quais são as técnicas de levantamento de requisitos e em que caso utilziar casa uma.
+Aprender com os erros do passado, para não continuar errando no futuro.
+
+O considerado como dos primeiros, o cascata, que tinha como base o início e finalização do ciclo para passar ao próximo.
+Teve sua descontinuação, pois havia apenas 1 entrega, neste caso, gerava um alto custo de manutenção e o cliente
+não estaria em contato com o processo.
+
+Para isso foi criado o Incremental, que dividia em várias entregas os ciclos, porém ele pecava na parte de contato com o cliente.
+Os problemas se mantém igual, mas numa complexidade menor, havendo menos custos e menas dificuldades de resolução.
+
+Nisso veio o modo Espiral, para envolver o cliente no dia a dia da produção, resolvendo a situação da falta de comunicação entre
+equipe e cliente. Mas com esse contato total, pode haver uma falta de conhecimento do cliente e até uma divergência de idéias a cada reunião.
+
+Por fim, tivemos as metodologias ágeis que foram criadas na intenção de evitar erros durante e no fim do processo.
+Evitando divergÊncias entre o cliente e os desenvolvedores.
+
+Retomada :
+Apresentação do sábado letivo sobre IA na Engenharia. Retomada sobre o SDLC explicado as 7 fases de produção do software.
+
+Baixar o preço do software não resolve, é necessário desenvolver um software correto e com um ppreço justo.
+
+Levantamento de requisitos.
+É a mais importante, pois se erra, o restante fica errado.
+Precisa analisar e entender certo, escrever correto e validar correto.
+O mais constante são erros de comunicação.
+A interpretação é comum errar, pelo fato de que todos possui uma interpretação.
+A falta de conhecimento sobre o produto afeta também no desempenho.
+
+Analisar, descrever e conhecer corretamente. Tudo está interligado, pois pode haver erros de descrição e interpretação.
+Tudo acima está envilvidas com os Stakeholders, que são todas as artes envolvidas no processo.
+  Técnicas de Levantamento:
+    Pesquisa de mercado é excencial para entender o que o cliente quer, saber o custo, se é viável.
+  Entrevistas: Primeiro contato com cliente, onde há perguntas e respostas entre equipe e cliente.
+  Étnografia : Vivencia o que precisa ser feito no processo da produção do software, sem qualquer limitações.
+  Observação: é mais limitado que a étnografia, pois pode acontecer certos pontos onde é confidencial e não é possível fazer parte
+da observação das empresas.
+  Questionário : É a parte mais estática e guiada, onde você pode enviarum questionário para facilitar ou ter mais facilidade no acesso
+do que nas entrevistas.
+  Workshops: Trabalha em grupo com todo mundo, para tentar resolver em conjunto uma idéia que não há uma resolução.
+  Joint : Se junta ao cliente após o Workshop criar um modelo para a solução inicial. Com esse ponto inicial, inicia o joint e melhora
+essa resposta.
+  Prototipação: Criar as telas, fluxogramas ou Diagramas para validar ao cliente de como seria o produto.
+  Análise documental : Forma de validar via documentação (Formulários, relatórios, históricos de produtos) para entender o que precisa ser feito.
+  Tomar cuidado com permissões (Precisam liberar para funcionar)
+comunicações, ponto de vista tendênciosos, interpretação ( O que vão pensar sobre )
