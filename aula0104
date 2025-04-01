@@ -1,1 +1,83 @@
+Retomada da aula passada: 
+Os stakeholders é todos os participantes do projeto.
+A etnografia é a descrição de como é feito o processo.
+Observação, se trata da parte de estar presente mas não participar do passo a passo.
+Questionário é mais objetivo e estático. 
+Entrevista é algo mais dinâmico e que pode ser mais tranquilo.
+O workshop procura desenvolver uma solução do problema apresentado em conjunto.
+Join apllication ter o desenvolvimento da solução técninca do problema.
+Prototipação, criar um modelo físico do projeto para iniciar na criação do software.
+--------------------------------------------------------------------------------------------------------
+Análise de mercado : 
+5 pessoas que são divididos em manhã, tarde e noite
 
+Cada pega 2 períodos no horário comercial, dentro do perído da faculdade.
+
+O sistema é um software comprado da PUC próprio das bibliotecas federais.
+
+Dentro do Campus Paranavaí está com aproximadamente 60 mil livros.
+
+São divididos por classificação, existe o número do exemplar e do acervo.
+Nesta classificação existem as subclasses que diferenciam dentro de cada classificação.
+Essas classificações juntam números criados pelo sistema e letras chaves do livro (inicial do livro ou do autor)
+
+Todos os livros possuem um código de barras cadastrado dentro do sistema.
+
+Existe uma análise pro livro ser cadstrado no sistema, as bibliotecárias 
+fazem uma catalogação para o livro entrar no sistema.
+
+O livro é inserido no sistema, que gera um código de barras único, que fica específicamente no livro.
+
+A questão do leitor é feito em um processo básico por licitação, dispensa de licitação e possuem certas restrições para compra.
+
+Existe uma normativa de itens que são perdidos e que possue um tempo x para que possam se tornar disponíveis a empréstimos.
+
+Para se cadastrar: RA do aluno ou o próprio sistema gera um número, nome, número, endereço, email.
+
+O período de empréstimos pode ser de até 14 dias.
+
+Caso ocorra atraso, 1 dia de atraso, é 1 dia de suspensão, sem pder pegar livros.
+
+
+Entender fluxo de empréstimos, o que é emprestado, por quanto tempo o emprestimo ocorre
+Como é feito a controladoria dos materiais? Todos são iguais? existem pesos
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Edimar...
+
+Assistente de aluno que vem com um problema.
+
+Antes ele explica sobre a idéia da revolução da tecnologia, mas usa como base a situação
+de como funciona a ideia do processo de como é sair do processo de ser um apoio aos estudantes.
+
+o ponto de preferência dele é o auditivo, pois se torna mais fácil.
+
+Os arquivos são por formulários de empréstimos de itens.
+Os empréstimos vão de calculadoras, canetas, a recursos materiais que são essenciais para o aluno em si.
+Que é disponibilizado pros alunos. 
+Os ficharios são feitos para que os alunos entendam como é as regras de uso de cada item de empréstimo.
+A idéia é evitar o desgaste rápido e prolongar a vida do item.
+O fichário tem como base o nome do item a ser emprestado descrito completamente. 
+Identificação exclusiva de aluno, servidor, ou até uma pessoa autorizada.
+Se é professor, uma justificativa do que é o uso do item, sala, horário de pegada e de devolução.
+Aos alunos, nome, turma, hora de empréstimo e de devolução.
+
+Os assistentes entrem no caso até pessoal, podendo ajudar na identificação de possíveis casos de discriminações, casos de perseguições.
+Ajudando em situações dentro e fora de sala de aula.
+
+Os horários são colocados tanto pelos professores quanto os alunos podem assinar.
+
+Existem uma portaria que diz sobre a parte mais tecnológica.
+
+Questão de tempo, 
+
+Não existe uma quantidade limite de empréstimos por aluno.
+
+Principais dificuldades, a rídigez é maior, a falta de controle dos itens, que acabavam sumindo, os alunos pegavam
+por empréstimo, mas não devolviam.
+ 
+Os itens normalmente tem um período de que seja devolvido ainda mesmo no dia para a assistência, ou em casos especiais,
+é necessário protocolar um pedido para que o tempo de empréstimo seja prorrogado. 
+
+Existem uma normativa de em torno de 3 meses dentro do achados e perdidos para que esse item se torne abil para empréstimo.  
+
+As principais técnicas de levantamento de dados foram as análises de mercado (documento criado a parte), entrevista.
