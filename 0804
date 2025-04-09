@@ -1,0 +1,45 @@
+Organização prática de requisitos no foco da rastreabilidade..
+
+Objrtivo de organizar e refinar os requisitods de forma prática e incremenrtl, ficando mais fácil de encontrar as coisas.
+Separado por fases:
+
+primeira fase : rastreabilidade : entender os requisitos e fazer uma conexão com os requisitos específicos.
+Necessita decompor o requisito principal ,em várias partes, para virar requisitos específicos e facilitar na pesquisa.
+Pode haver mais de 1 requisito principal.
+
+Fase 2 : Identificar quais sãos os principais requisitos naa situação, para que fique claro.
+Principalmente necessita da decomposição para requisitos específicos.
+
+fase 3: Especificar quais são os requisitos da fomra mais correrta e coerente.
+Destrinchar o requisito para que ele fique o mais certo possível.
+
+fase 4 : Identificar os usuários, classificando cada tipo de atores dentro do sistema usasdo.
+Coisas do tipo, peermitir que  o cliente faça uma reserva de quadra de futeol ou de society.
+Permitir que o adm possa fazer as reservas dos horários.
+
+fase 5 : complementação funcional, associar funcionalidades a cada autor, ou parte do sistema.
+
+Coisas de realizar gestões ou permissões de acesso ao item.
+
+Fase 6: Funcionalidades que ficam fora do escopo.
+Durante a parte de entrevistas pode haver o aumento de funcionalidades diferentes, quais seja o que o cliente quer, mas não precisa ter haver com o sistema.
+No caso, se encaixa como uma coisa que precisa analisar se é viável a implantação,
+
+Fase 7: Validar se todos os itens acima foram feitos da forma correta e verificado com o cliente.
+
+a análise se torna mais técnica que o levantamento de requisitos.
+No momento da documentação é necessário ser algo básico, definindo o Indicador, descrição do requisito, prioridade. A origem do requisito e os critérios para o item.
+O cadastro é o registro de dados do sistema, a entidade representa o objeto e suas classes.
+Identificar as dependÊncias e correlações, encontrar cada relacionamento envolvido no sistema.
+
+Definiçaõ de campos e características.
+coisas que diferenciam cada cliente, coisas como cpf, rg, RA.
+
+5 identificar a regra de negócio.
+Significa tudo que faça o sistema funcionar certo.
+Desde validação de CPF, gerar documento, descontos, verificar horários.
+
+Identificações de requisitos não funcional.
+Os requisitos não funcionais definem como o sistema deve funcionar e alguns caminhos para manter o sistema.
+
+Formatação: Manter um formato que seja mais intuítivo e que possa separar cada item certo.
