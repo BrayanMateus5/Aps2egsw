@@ -1,0 +1,29 @@
+Documento técnico é objetivo, apenas em tópicos se possível
+a visão geral do sistema não pode ter requisitos, pois o mesmo está em um bloco unico e exclusivo
+1.1 Introdução analise de requisitos: Problematiza, cntextualiza e mostra o objetivo
+
+1.2 publico alvo quem vai ler o documento, e também que irá utilizar o sistema 
+
+Escopo:
+serve para colocar o que não vai fazer, ou que não é intuitivo na parte de requisitos, pode colocar o tipo do sistema (web ou desktop).
+Define se o sistema é direcionado ao cliente, ou interno para a empresa.
+Indicar as funcionalidades que não estão presentes anteriormente.
+
+No caso o nosso seria interno...
+
+Benefícios esperados..
+Mostrar uma visão geral dos benefícios e as possíveis melhorias.
+
+Pesquisa de mercado::
+Quanto maior a pesquisa, melhor será os benefícios.
+
+Requisitos::
+Apresentar as técnicas e fazer o levantamento de requisitos.
+
+LRP (o principal) mais geral e centralizado.
+LRE (o específico) detalha total as funcionalidades do requisito principal.
+
+Requisitos identificados...
+* = obrigatório
+& = enumerado ( tipo lista )
+# = associado a outra coisa.
